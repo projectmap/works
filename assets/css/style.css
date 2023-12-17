@@ -837,6 +837,10 @@ a:hover {
   margin-left: 10px;
 }
 
+.margin-top-48{
+  margin-top: 48px;
+}
+
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
     margin-top: 3rem;
@@ -1043,8 +1047,8 @@ a:hover {
 
 .portfolio-details .portfolio-description {
   padding-top: 30px;
-  margin-bottom: 48px;
 }
+
 
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
@@ -1054,6 +1058,9 @@ a:hover {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+}
+.portfolio-description{
+  margin-bottom: 48px;
 }
 
 /*--------------------------------------------------------------
